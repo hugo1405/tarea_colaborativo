@@ -1,3 +1,4 @@
 Este archivo sera utilizado para emular modificaciones en el proyecto colaborativo
 
 Hugo Saucedo Luque
+Ernesto Martinez Salas
